@@ -2,6 +2,8 @@
 
 A new TODO Flutter project with Hive.
 
+<img src="https://user-images.githubusercontent.com/116911113/211802406-38e05639-cc91-48a8-a5d0-c0a78613406b.jpg" width="350" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
